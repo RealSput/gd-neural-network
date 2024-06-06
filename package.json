@@ -1,0 +1,16 @@
+{
+  "name": "neural-gd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@g-js-api/g.js": "^3.11.6"
+  }
+}
